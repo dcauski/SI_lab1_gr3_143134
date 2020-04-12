@@ -1,0 +1,6 @@
+id   ime    cena
+lb   leb    20
+br   brasno 100
+sk   sok    50
+vd   voda   20
+kf   kafe   50
